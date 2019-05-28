@@ -1,0 +1,7 @@
+.tahoe {
+  background-image: url('tahoe.jpg');
+}
+
+.tahoe-gradient {
+  background-image: linear-gradient(to top right, #52b0ea, #ff7e76);
+}

@@ -1,0 +1,7 @@
+.monument-valley {
+  background-image: url('monument-valley.jpg');
+}
+
+.mv-gradient {
+  background-image: linear-gradient(to top right, #408296, #f5ae6a);
+}

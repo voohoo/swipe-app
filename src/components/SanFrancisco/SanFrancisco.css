@@ -1,0 +1,7 @@
+.san-francisco {
+  background-image: url('sf.jpg');
+}
+
+.sf-gradient {
+  background-image: linear-gradient(to top right, #78559a, #ffa970);
+}
